@@ -1,0 +1,15 @@
+/Users/uzmaraja/Desktop/MIS221/mis-221-pa-5-jirafay/obj/Debug/net7.0/mis-221-pa-5-jirafay.csproj.AssemblyReference.cache
+/Users/uzmaraja/Desktop/MIS221/mis-221-pa-5-jirafay/obj/Debug/net7.0/mis-221-pa-5-jirafay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uzmaraja/Desktop/MIS221/mis-221-pa-5-jirafay/obj/Debug/net7.0/mis-221-pa-5-jirafay.AssemblyInfoInputs.cache
+/Users/uzmaraja/Desktop/MIS221/mis-221-pa-5-jirafay/obj/Debug/net7.0/mis-221-pa-5-jirafay.AssemblyInfo.cs
+/Users/uzmaraja/Desktop/MIS221/mis-221-pa-5-jirafay/obj/Debug/net7.0/mis-221-pa-5-jirafay.csproj.CoreCompileInputs.cache
+/Users/uzmaraja/Desktop/MIS221/mis-221-pa-5-jirafay/bin/Debug/net7.0/mis-221-pa-5-jirafay
+/Users/uzmaraja/Desktop/MIS221/mis-221-pa-5-jirafay/bin/Debug/net7.0/mis-221-pa-5-jirafay.deps.json
+/Users/uzmaraja/Desktop/MIS221/mis-221-pa-5-jirafay/bin/Debug/net7.0/mis-221-pa-5-jirafay.runtimeconfig.json
+/Users/uzmaraja/Desktop/MIS221/mis-221-pa-5-jirafay/bin/Debug/net7.0/mis-221-pa-5-jirafay.dll
+/Users/uzmaraja/Desktop/MIS221/mis-221-pa-5-jirafay/bin/Debug/net7.0/mis-221-pa-5-jirafay.pdb
+/Users/uzmaraja/Desktop/MIS221/mis-221-pa-5-jirafay/obj/Debug/net7.0/mis-221-pa-5-jirafay.dll
+/Users/uzmaraja/Desktop/MIS221/mis-221-pa-5-jirafay/obj/Debug/net7.0/refint/mis-221-pa-5-jirafay.dll
+/Users/uzmaraja/Desktop/MIS221/mis-221-pa-5-jirafay/obj/Debug/net7.0/mis-221-pa-5-jirafay.pdb
+/Users/uzmaraja/Desktop/MIS221/mis-221-pa-5-jirafay/obj/Debug/net7.0/mis-221-pa-5-jirafay.genruntimeconfig.cache
+/Users/uzmaraja/Desktop/MIS221/mis-221-pa-5-jirafay/obj/Debug/net7.0/ref/mis-221-pa-5-jirafay.dll
